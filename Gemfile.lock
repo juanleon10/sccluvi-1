@@ -66,7 +66,6 @@ GEM
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
-    bigdecimal (3.1.2)
     bootsnap (1.13.0)
       msgpack (~> 1.2)
     builder (3.2.4)
@@ -170,7 +169,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bigdecimal
   bootsnap
   debug
   pg
