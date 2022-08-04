@@ -45,7 +45,6 @@ end
 
 group :production do
   gem 'rails_12factor'
-  gem 'bigdecimal'
 end
 
 gem 'pg'
